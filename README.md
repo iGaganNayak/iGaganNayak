@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Gagan Nayak👋
 
-<!--
-**iGaganNayak/iGaganNayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Designer with a strong focus on UI quality  
+🎨 HTML & CSS Expert | JavaScript (Learning & Improving)  
+⚡ Passionate about clean structure, reusable components & scalable design  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I’m a frontend-focused developer who loves turning designs into clean,
+responsive, and performance-friendly web interfaces.
+
+I believe good UI is not just about looks —  
+it’s about **structure, clarity, and user experience**.
+
+Currently improving my JavaScript skills and moving towards
+modern frontend workflows.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** HTML, CSS, JavaScript  
+- **Styling:** CSS Variables, Custom UI Systems  
+- **Tools:** Git, GitHub, VS Code  
+- **Learning:** Advanced JavaScript, React  
+
+---
+
+## 🎯 What I Focus On
+
+- Clean & readable code  
+- Scalable UI components  
+- Design-to-code accuracy  
+- Improving workflow & productivity  
+
+---
+
+## 📈 Goals
+
+- Master modern frontend development  
+- Build real-world projects  
+- Collaborate with developers & designers  
+- Monetize skills through freelancing / products  
+
+---
+
+## 🤝 Let’s Connect
+
+If you want to collaborate or build something meaningful,
+feel free to reach out 🚀
